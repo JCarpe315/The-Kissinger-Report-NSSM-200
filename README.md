@@ -1,2 +1,5 @@
 # The-Kissinger-Report-NSSM-200
 This is a comprehensive, evidence-based investigation into **NSSM 200** — National Security Study Memorandum 200, also known as "The Kissinger Report" — and everything that surrounded it, followed it, and grew from it. Nothing here is speculation. Every claim is tied to a source. If something is uncertain, it is labeled as such.
+NSSM 200 was not a speech, not a press release, and not a suggestion. It was a **classified U.S. national security study** that treated population growth in poor countries as a threat to American economic and strategic interests, then built an institutional machinery to reduce that growth. The machinery still operates today, though its name, its packaging, and its public face have changed.
+
+This guide is written for anyone who wants to understand what actually happened — the documents, the people, the money, the countries targeted, the methods used, the health effects, and the modern programs that continue the same work under different branding.
